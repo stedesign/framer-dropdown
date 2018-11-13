@@ -1,0 +1,11 @@
+{
+    "name": "Dropdown",
+    "description": "Open a dropdown menu on click on a selected element",
+    "author": "Stefano Tirloni",
+
+    "require": "{dropdown} = require 'Dropdown'",
+    "install": "Dropdown.coffee",
+    "example": "example.coffee",
+
+    "thumb": "d-thumb.png"
+}
